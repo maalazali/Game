@@ -1,0 +1,5 @@
+package data;
+
+public enum EnumPlayerPosition {
+    NOPLAYERPRESENT, ENEMYPLAYERPOSITION, MYPLAYERPOSITION, BOTHPLAYERPOSITION
+}
